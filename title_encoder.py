@@ -26,7 +26,7 @@ for line in content:
         
     print(str)
     
-file.close()   
+wrfile.close()   
         
         
 
